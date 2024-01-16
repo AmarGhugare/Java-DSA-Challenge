@@ -5,7 +5,7 @@ package Array;
  * Platform :- Leetcode
  * Question :- Merge Strings Alternately
  * Category :- Array
- * Tags :- Array, String
+ * Tags :- Array, String, Two Pointers
  * 
  * Author :- Amar
  * Date :- 15/01/2024
